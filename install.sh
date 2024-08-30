@@ -6,7 +6,7 @@ echo "[1] Windows 2022"
 read -p "Pilih [1]: " PILIH OS
 
 case "$PILIHOS" in
-	1|"") PILIHOS="https://download1640.mediafire.com/zgnnhi071pigBirh9zWns0ltPw1zDwToquTRoygjo44oZMWx9xdKeOjS_AuPEAw3zgU_Y2i1H4JZrKLsxqdT0W8QfYVf7_hkTXd61YYfjlsOKIbjnOcEJVxjS_lrOXbkbAU3Ki-d1_T0IjuE6FxNSK4aXCxj7gtQ1Gy7ySduXDdhEdX4/dvdpug91q05iucw/windows2022.gz";;
+	1|"") PILIHOS="https://download1640.mediafire.com/fnq4yflz3chgmBY-znAnEPfQHHtkZolvMXEcJkd4IcPDS1xGrnp4z0R4QUckfdC2ERyZoOQ567q7NlDTIX5hutI7l_NJcsmkeIc9KNl9jc3GIl4hreKdHt3hn5-atRcadLsXIctMq2p-dpb4MATwdOQOOVy6zwx1gbkRh1YUc8GCJ1WD/dvdpug91q05iucw/windows2022.gz";;
 	*) echo "[!] Pilihan salah"; exit;;
 esac
 
